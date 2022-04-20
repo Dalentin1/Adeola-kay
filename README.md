@@ -2,3 +2,10 @@
 Tourism
 About us 
 contact us
+Educatioh
+Mission
+Vision 
+Features
+Then
+
+
